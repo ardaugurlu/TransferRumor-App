@@ -22,7 +22,7 @@ Action Recommendation for Teams
 
 Stremlit App
 
-Data
+##Data
 
 We have 108 variables for each position in football. If you want to examine this, you can examine the xlsx files in our project. We have a total of 5 major leagues, 98 teams and 1725 players.
 
